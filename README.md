@@ -3,7 +3,7 @@
 # JavaScript Double-Base Palindrome Challenge
 
 In this challenge, you will complete  [Project Euler
-#36](https://projecteuler.net/problem=36). Project Eueler is a collection of
+\#36](https://projecteuler.net/problem=36). Project Eueler is a collection of
 math problems that can be solved in many programming languages. It's a useful
 website for practicing whiteboarding, or for mastering the basics of the
 progrmaming languages you know or want to learn.
