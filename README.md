@@ -3,16 +3,16 @@
 # JavaScript Double-Base Palindrome Challenge
 
 In this challenge, you will complete  [Project Euler
-\#36](https://projecteuler.net/problem=36). Project Eueler is a collection of
+\#36](https://projecteuler.net/problem=36). Project Euler is a collection of
 math problems that can be solved in many programming languages. It's a useful
 website for practicing whiteboarding, or for mastering the basics of the
-progrmaming languages you know or want to learn.
+programming languages you know or want to learn.
 
 ## Prerequisites
 
 -   [ga-wdi-boston/js-array-methods](https://github.com/ga-wdi-boston/js-array-methods)
 -   [ga-wdi-boston/js-array-methods-diagnostic](https://github.com/ga-wdi-boston/js-array-methods-diagnostic)
--   ["Counting in Binary" from Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
+-   ["Counting in Binary" from Wikipedia](https://en.wikipedia.org/wiki/Binary_number#Counting_in_binary)
 
 ## Instructions
 
@@ -31,7 +31,8 @@ cloning](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone).
 
 ## Requirements
 
-> The decimal number, 585 = 10010010012 (binary), is palindromic in both bases.
+> The decimal number, 585, is 1001001001 in binary, and is palindromic in both
+> bases.
 >
 > Find the sum of all numbers, less than one million, which are palindromic in
 > base 10 and base 2.
