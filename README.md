@@ -47,7 +47,7 @@ some of the most common sources of errors.
 
 ## Bonus
 
-Find a palindrome in three bases: decimal, binary, and octal.
+Find a multi-digit palindrome in three bases: decimal, binary, and octal.
 
 ## [License](LICENSE)
 
